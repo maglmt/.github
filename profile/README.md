@@ -8,7 +8,6 @@
 ## 开源项目
 |  项目名称 | 描述 | 网址 | 在线体验 | 开发者 |
 | ---- | ---- | ---- | ---- | ---- |
-| CSS-Underline | 美化a:hover的underline效果 | [CSS-Underline](//github.com/NANGSOFT/css-underline) | 暂无 | Jiaonang |
-| ACVE反网络暴力项目 | 公益项目 | [ACVE](//github.com/NANGSOFT/acve) | [ACVE](//acve.ml) | Jiaonang |
+| CSS-Underline | 美化hover underline效果 | [CSS-Underline](//github.com/maglmt/css-underline) | 暂无 | Teares |
 
 <hr>
