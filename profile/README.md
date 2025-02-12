@@ -1,5 +1,5 @@
 <div align=center><img src="https://nangsoft.top/static/img/offical/maglmt_square_logo.png" height="100px"></div>
-<p align=center><b size=70>磁启探索，共融同享</b></p>
+<p align=center><b size=170>磁启探索，共融同享</b></p>
 <hr>
 <p align=center><a href="http://nangsoft.top/" target="_blank">🔗 访问官网</a> | <a href="mailto:jiaonang666@qq.com">📧 联系站长</a></p>
 
